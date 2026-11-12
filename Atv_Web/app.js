@@ -81,8 +81,8 @@ function mostrarDashboard() {
             <div class="col-md-4">
                 <div class="card h-100">
                     <div class="card-body">
-                        <h2 class="h5">Chamados abertos</h2>
-                        <p class="display-6 mb-0">${abertos}</p>
+                        <h2 class="h5">Chamadas abertas</h2>
+                        <p class="display-6 mb-0">${abertas}</p>
                     </div>
                 </div>
             </div>
