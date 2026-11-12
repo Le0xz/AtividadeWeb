@@ -1,1 +1,1 @@
-# Cada Pasta é um projeto diferente
+# Cada Pasta é um projeto diferente. Por Favor, baixar os arquivos de forma individual em uma pasta local da maquina
