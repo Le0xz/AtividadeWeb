@@ -1,0 +1,42 @@
+body {
+    background-color: #f5f6f8;
+    font-family: Arial, sans-serif;
+}
+
+h2, h3, h4 {
+    color: black;
+    font-weight: bold;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+}
+
+.btn-primary:hover {
+    background-color: #f70808;
+    border-color: #f70808;
+    transition: 0.3s;
+}
+
+/* Miniaturas das fotos */
+.miniatura {
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+    flex-shrink: 0;
+}
+
+/* Organização da lista */
+.list-group-item {
+    min-height: 52px;
+    text-align: left;
+    overflow-wrap: anywhere;
+}
+
+/* Imagem ampliada */
+.imagem-grande {
+    max-width: 100%;
+    max-height: 70vh;
+    object-fit: contain;
+}
